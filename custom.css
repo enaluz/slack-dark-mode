@@ -69,6 +69,7 @@ input[type="text"],
 
 .c-file_container {
     background-color: var(--background) !important;
+    border: white !important;
 }
 
 .c-file__title, .c-file__meta_swap, .c-file__title, .c-file__slide .c-file__slide--meta .c-file__slide--meta-size {
