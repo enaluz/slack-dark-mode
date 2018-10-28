@@ -67,6 +67,15 @@ input[type="text"],
     border-color: var(--primary) !important;
     color: var(--text-bright) !important; }
 
+.c-file_container {
+    background-color: var(--background) !important;
+}
+
+c-file__title, c-file__meta_swap, c-file__title {
+    color: var(--text) !important;
+}
+
+
 /* Snippets */
 select {
   background-color: var(--background);
