@@ -40,9 +40,11 @@ h1, h2, h3, h4 {
   color: var(--text);
 }
 
-c-message, c-message--light {
-    var(--background) !important;
+c-message, c-message--light, c-message__gutter {
+    background-color: var(--background) !important;
 }
+
+
 
 .popover_mask {
    background-color: rgba(0, 0, 0, 0.3);
