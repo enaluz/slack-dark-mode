@@ -71,7 +71,7 @@ input[type="text"],
     background-color: var(--background) !important;
 }
 
-c-file__title, c-file__meta_swap, c-file__title {
+.c-file__title, .c-file__meta_swap, .c-file__title, .c-file__slide .c-file__slide--meta .c-file__slide--meta-size {
     color: var(--text) !important;
 }
 
