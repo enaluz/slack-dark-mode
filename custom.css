@@ -74,8 +74,8 @@ input[type="text"],
 
 .c-file__title, .c-file__meta_swap, .c-file__title,
 .c-file__slide .c-file__slide--meta .c-file__slide--meta-size,
-.c-dialog__title overflow_ellipsis, c-message__sender > span,
-c-message__body {
+.c-dialog__title overflow_ellipsis, .c-message__sender > span,
+.c-message__body {
     color: var(--text) !important;
 }
 
